@@ -1,4 +1,5 @@
 # Embedded-sys-2-lab-2
 
-lab 
- 
+Name: Denys Bengizu
+Xilinx Zynq ARM Cortex-9
+Favorite Pizza Topping: Bacon
